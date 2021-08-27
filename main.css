@@ -4,15 +4,21 @@ body {
 
 .header {
     background-color: #7451eb;
-    padding: 135px 215px 251px;
+    padding: 100px 215px 425px;
 }
 
 .floatLeft {
     float: left;
+    width: 60%;
 }
 
 .floatRight {
     float: right;
+    width: 40%;
+}
+
+.floatClear {
+    clear: both;
 }
 
 .header h1 {
@@ -35,4 +41,14 @@ body {
     font-size: 2em;
     padding: 5px 8px;
     border: solid 2px #7451eb;
+}
+
+.container_img {
+    margin: 25px;  
+}
+
+.floatRight img {
+    height: 400px;
+    width: 400px;
+    margin: 0 25%;
 }
