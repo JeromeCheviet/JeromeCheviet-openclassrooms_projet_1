@@ -1,0 +1,38 @@
+body {
+    font-family: 'Montserrat','Liberation Sans';
+}
+
+.header {
+    background-color: #7451eb;
+    padding: 135px 215px 251px;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
+
+.header h1 {
+    color: white;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.header p {
+    color: white;
+    font-size: 1.5em;
+    margin-top: 100px;
+}
+
+.bg_vert_1 {
+    background-color: #0ceda3;
+    color: #003668;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 5px 8px;
+    border: solid 2px #7451eb;
+}
