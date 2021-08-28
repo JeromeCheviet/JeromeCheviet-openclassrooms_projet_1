@@ -1,24 +1,20 @@
+/*
+  GENERAL
+*/
+
 body {
     font-family: 'Montserrat','Liberation Sans';
+    width: auto;
 }
+
+/*
+  HEADER
+*/
 
 .header {
+    display: flex;
     background-color: #7451eb;
-    padding: 100px 215px 425px;
-}
-
-.floatLeft {
-    float: left;
-    width: 60%;
-}
-
-.floatRight {
-    float: right;
-    width: 40%;
-}
-
-.floatClear {
-    clear: both;
+    padding: 100px 215px 0;
 }
 
 .header h1 {
@@ -43,12 +39,16 @@ body {
     border: solid 2px #7451eb;
 }
 
-.container_img {
-    margin: 25px;  
-}
-
-.floatRight img {
+.boxRightHeader img {
     height: 400px;
     width: 400px;
-    margin: 0 25%;
+    padding-left: 25%;
 }
+
+/*
+  CORPS
+*/
+
+/*
+  FOOTER
+*/
