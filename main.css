@@ -86,8 +86,6 @@ body {
 
 .boxLeftCorps {
   margin: auto 15% auto 0;
-  /* padding-left: 10%; */
-  /* padding-right: 20%; */
 }
 
 .sigle {
@@ -119,7 +117,6 @@ body {
   color: white;
   font-size: 2.5em;
   margin-bottom: 1px;
-  /* margin-left: 10%; */
 }
 
 .footer p {
@@ -127,17 +124,12 @@ body {
   font-size: 1.5em;
   margin-top: 1px;
   margin-bottom: 3%;
-  /* margin-left: 10%; */
 }
 
 .bg_vert_3 {
   background-color: #0ceda3;
   color: #003668;
   padding: 2px 2px 2px 0;
-}
-
-.footerLink {
-  /* margin-left: 10%; */
 }
 
 .footer img {
