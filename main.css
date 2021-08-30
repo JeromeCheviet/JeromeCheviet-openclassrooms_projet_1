@@ -1,4 +1,24 @@
 /*
+  SMALL SCREEN
+*/
+
+@media All and (max-width: 950px){
+
+  #portrait {
+    display: none;
+  }
+
+  .boxLeftCorps{
+    display: none;
+  }
+
+  .icones {
+    max-width: 50px;
+    height: auto;
+  }
+}
+
+/*
   GENERAL
 */
 
@@ -47,7 +67,7 @@ body {
 .boxRightHeader img {
   height: 400px;
   width: 400px;
-  padding-left: 50%;
+  padding-left: 5%;
 }
 
 /*
@@ -99,7 +119,7 @@ body {
   color: white;
   font-size: 2.5em;
   margin-bottom: 1px;
-  margin-left: 10%;
+  /* margin-left: 10%; */
 }
 
 .footer p {
@@ -107,7 +127,7 @@ body {
   font-size: 1.5em;
   margin-top: 1px;
   margin-bottom: 3%;
-  margin-left: 10%;
+  /* margin-left: 10%; */
 }
 
 .bg_vert_3 {
@@ -117,7 +137,7 @@ body {
 }
 
 .footerLink {
-  margin-left: 10%;
+  /* margin-left: 10%; */
 }
 
 .footer img {
