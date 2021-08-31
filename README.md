@@ -1,1 +1,1 @@
-# JeromeCheviet-openclassrooms_projet_1
+# Openclassrooms_projet_1
