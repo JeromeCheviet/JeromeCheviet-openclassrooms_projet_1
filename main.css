@@ -2,7 +2,7 @@
   SMALL SCREEN
 */
 
-@media All and (max-width: 950px){
+@media all and (max-width: 950px){
 
   #portrait {
     display: none;
